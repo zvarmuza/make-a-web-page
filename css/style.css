@@ -1,0 +1,64 @@
+body {
+  background-color: orange;
+}
+
+h1 {
+  text-align: center;
+}
+
+.lesson {
+  border-style: solid;
+}
+
+.header {
+  text-align: center;
+  border-style: solid;
+  background-color: black;
+  color: orange;
+  padding: 5px;
+}
+
+.informations {
+  background-color: white;
+  color: black;
+  border-style: solid;
+  padding: 5px;
+  font-family: Book Antiqua;
+  font-size: 15px
+}
+
+span {
+  font-weight: bold;
+}
+
+.image {
+  margin-right: auto;
+  margin-left: auto;
+  width: 750px;
+}
+
+.nav {
+  border-style: solid;
+  margin: 0px;
+  padding: 20px;
+  font-size: 20px;
+  background-color: black;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.navigation {
+  float: left;
+  width: 19%;
+}
+
+.navigation a {
+  color: orange;
+  text-decoration: none;
+  font-weight: bold;
+}
